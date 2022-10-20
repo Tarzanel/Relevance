@@ -1,0 +1,15 @@
+D:\Proiecte\Relevance\Rucsac\Rucsac\bin\Debug\net6.0\Rucsac.exe
+D:\Proiecte\Relevance\Rucsac\Rucsac\bin\Debug\net6.0\Rucsac.deps.json
+D:\Proiecte\Relevance\Rucsac\Rucsac\bin\Debug\net6.0\Rucsac.runtimeconfig.json
+D:\Proiecte\Relevance\Rucsac\Rucsac\bin\Debug\net6.0\Rucsac.dll
+D:\Proiecte\Relevance\Rucsac\Rucsac\bin\Debug\net6.0\Rucsac.pdb
+D:\Proiecte\Relevance\Rucsac\Rucsac\obj\Debug\net6.0\Rucsac.csproj.AssemblyReference.cache
+D:\Proiecte\Relevance\Rucsac\Rucsac\obj\Debug\net6.0\Rucsac.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proiecte\Relevance\Rucsac\Rucsac\obj\Debug\net6.0\Rucsac.AssemblyInfoInputs.cache
+D:\Proiecte\Relevance\Rucsac\Rucsac\obj\Debug\net6.0\Rucsac.AssemblyInfo.cs
+D:\Proiecte\Relevance\Rucsac\Rucsac\obj\Debug\net6.0\Rucsac.csproj.CoreCompileInputs.cache
+D:\Proiecte\Relevance\Rucsac\Rucsac\obj\Debug\net6.0\Rucsac.dll
+D:\Proiecte\Relevance\Rucsac\Rucsac\obj\Debug\net6.0\refint\Rucsac.dll
+D:\Proiecte\Relevance\Rucsac\Rucsac\obj\Debug\net6.0\Rucsac.pdb
+D:\Proiecte\Relevance\Rucsac\Rucsac\obj\Debug\net6.0\Rucsac.genruntimeconfig.cache
+D:\Proiecte\Relevance\Rucsac\Rucsac\obj\Debug\net6.0\ref\Rucsac.dll
